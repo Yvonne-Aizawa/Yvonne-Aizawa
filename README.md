@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Top Langs](https://github-readme-yvonne-aizawa.vercel.app/api/top-langs/?username=Yvonne-Aizawa&layout=donut)]
+[![Top Langs](https://github-readme-stats-dkadxgjz7-yvonne-aizawa.vercel.app/api/top-langs/?username=Yvonne-Aizawa&layout=donut)]
